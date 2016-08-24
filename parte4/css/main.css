@@ -1,0 +1,22 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.box{
+height: 200px;
+width: 200px;
+position: relative;
+}
+.uno{
+	background-color: #ee3e64;
+}
+.dos{
+	background-color: #44accf;
+	top: 0px;
+	left: 200px;
+	right: 0px;
+	bottom: 100px;
+}
+.tres{
+	background-color: #b7d84b;
+}
